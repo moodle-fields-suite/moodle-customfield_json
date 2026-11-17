@@ -2,7 +2,7 @@
 
 [English](#english) · [Português (Brasil)](#português-brasil)
 
-Documentation / Documentação: <https://moodle-fields-suite.github.io/customfield_json/>
+Documentation / Documentação: <https://moodle-fields-suite.github.io/moodle-customfield_json/>
 
 ## English
 
@@ -24,7 +24,7 @@ Instalação: copie este repositório para `customfield/field/json` (`public/cus
 
 ## Support and privacy / Suporte e privacidade
 
-- Issue tracker / Rastreador de issues: <https://github.com/moodle-fields-suite/customfield_json/issues>
+- Issue tracker / Rastreador de issues: <https://github.com/moodle-fields-suite/moodle-customfield_json/issues>
 - Privacy / Privacidade: the values are stored by the custom fields subsystem, which exports and deletes them; this plugin stores nothing on its own / os valores ficam no subsistema de campos personalizados, que os exporta e apaga; o plugin não guarda nada por conta própria.
 - Translations / Traduções: only English is shipped; other languages go through AMOS / o pacote traz só inglês; outros idiomas via AMOS.
 
