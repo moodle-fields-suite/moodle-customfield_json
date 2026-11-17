@@ -10,7 +10,7 @@ Requisitos
 A partir de um ZIP
 ------------------
 
-1. Baixe ``customfield_json-<versão>.zip`` das `releases <https://github.com/moodle-fields-suite/customfield_json/releases>`_.
+1. Baixe ``customfield_json-<versão>.zip`` das `releases <https://github.com/moodle-fields-suite/moodle-customfield_json/releases>`_.
 2. Acesse *Administração do site > Plugins > Instalar plugins*, envie o ZIP e siga os passos.
 3. Conclua a atualização em *Administração do site > Notificações*.
 
@@ -21,7 +21,7 @@ Copie o repositório para ``customfield/field/json`` (``public/customfield/field
 
 .. code-block:: bash
 
-   git clone https://github.com/moodle-fields-suite/customfield_json.git public/customfield/field/json
+   git clone https://github.com/moodle-fields-suite/moodle-customfield_json.git public/customfield/field/json
 
 Idiomas
 -------

@@ -37,5 +37,5 @@ Principais recursos
 Links
 -----
 
-* Código-fonte e issues: https://github.com/moodle-fields-suite/customfield_json
-* Perfil do usuário: o mesmo editor para campos de perfil é o plugin `profilefield_json <https://github.com/moodle-fields-suite/profilefield_json>`_.
+* Código-fonte e issues: https://github.com/moodle-fields-suite/moodle-customfield_json
+* Perfil do usuário: o mesmo editor para campos de perfil é o plugin `profilefield_json <https://github.com/moodle-fields-suite/moodle-profilefield_json>`_.
